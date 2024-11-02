@@ -36,7 +36,7 @@
             </VForm>
             <p class="text-body-2 mt-10">
               <NuxtLink to="/reset-password" class="font-weight-bold text-primary"
-                >Forgot password?</NuxtLink
+                >Forgot passwords?</NuxtLink
               >
             </p>
             <p class="text-body-2 mt-4">
